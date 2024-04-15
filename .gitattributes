@@ -1,0 +1,5 @@
+squad_model filter=lfs diff=lfs merge=lfs -text
+nqg_model filter=lfs diff=lfs merge=lfs -text
+data/ filter=lfs diff=lfs merge=lfs -text
+squad/para-train.txt filter=lfs diff=lfs merge=lfs -text
+qgevalcap/ filter=lfs diff=lfs merge=lfs -text
